@@ -1,0 +1,21 @@
+This is solution to the problem of creating a balanced binary tree and finding if a path exists anywhere from root node to leaf node with sum equal to given values.
+
+Input:
+The input are integer with new lines. The first integer determines the number of nodes n in the tree. Consective n inputs determine the nodes of the tree and the last input is the sum to check if it is present in the tree path.
+
+Example 
+5 - n
+1
+2
+3
+4
+5
+3 - sum to check
+
+	1
+       / \
+      2  3
+     / \
+    4  5
+
+Sum 3 is present in path 1-2 = 3
